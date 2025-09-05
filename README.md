@@ -4,7 +4,7 @@
 **Platform:** Coursera | **Offered by:** Google  
 **Completion:** [Add Month & Year]  
 
-## 📌 Overview  
+##  Overview  
 This capstone project marked the culmination of the **Google Advanced Data Analytics Professional Certificate**.  
 It showcased my ability to apply **end-to-end data analytics skills** — from **data collection and cleaning** to **advanced analysis, modeling, and business problem-solving**.  
 
@@ -12,7 +12,7 @@ The capstone simulated real-world scenarios, requiring the translation of **busi
 
 ---
 
-## 🚀 Key Contributions  
+##  Key Contributions  
 - **Engineered structured data pipelines** for efficient data collection, cleaning, and preprocessing.  
 - **Applied advanced statistical techniques & machine learning models** to extract insights and validate hypotheses.  
 - **Designed compelling data visualizations and dashboards** to communicate actionable insights clearly.  
@@ -20,7 +20,7 @@ The capstone simulated real-world scenarios, requiring the translation of **busi
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## Tech Stack & Tools  
 - **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
 - **Data Management:** SQL, BigQuery  
 - **Visualization:** Tableau, Power BI  
@@ -28,7 +28,7 @@ The capstone simulated real-world scenarios, requiring the translation of **busi
 
 ---
 
-## 🎯 Outcomes  
+## Outcomes  
 - Strengthened expertise in **data storytelling, statistical analysis, and machine learning**.  
 - Gained hands-on experience solving **business challenges with advanced data analytics**.  
 - Enhanced ability to present findings effectively to both executives and technical teams.  
