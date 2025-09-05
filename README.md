@@ -2,7 +2,7 @@
 
 # Google Advanced Data Analytics Capstone
 **Platform:** Coursera | **Offered by:** Google  
-**Completion:** [Add Month & Year]  
+**Completion:** [Nov & 2024]  
 
 ##  Overview  
 This capstone project marked the culmination of the **Google Advanced Data Analytics Professional Certificate**.  
